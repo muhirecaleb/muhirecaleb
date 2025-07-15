@@ -1,65 +1,21 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# 💫 About Me:
+🎓 Software Development Student<br>📍 Based in Rwanda<br>🔧 Learning JavaScript, Vue.js, and Backend Tech<br>🚀 Building projects to learn and grow<br>
 
-###
 
-<p align="center">I’m currently a Software Development student  <br>💻 I love building real-world projects that solve everyday problems  <br>🌱 Currently learning: JavaScript, Vue.js, and Backend Development  <br>📚 Always learning and improving through open source and personal projects  <br>🚀 My goal is to become a full-stack developer and contribute to meaningful tech solutions  <br>💬 Ask me about tech, projects, or anything coding-related ....</p>
+# 💻 Tech Stack:
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=muhirecaleb&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=muhirecaleb&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhirecaleb&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-###
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=muhirecaleb&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<h2 align="left">About me</h2>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=muhirecaleb&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-###
+---
+[![](https://visitcount.itsvg.in/api?id=muhirecaleb&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="left">🎓 Software Development Student  <br>📍 Based in Rwanda  <br>🔧 Learning JavaScript, Vue.js, and Backend Tech  <br>🚀 Building projects to learn and grow  <br>📬 Reach me at [your.email@example.com]</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-</div>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-<img src="https://raw.githubusercontent.com/muhirecaleb/muhirecaleb/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/muhirecaleb/muhirecaleb/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/muhirecaleb/muhirecaleb/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/muhirecaleb/muhirecaleb/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img height="200" src=""  />
-</div>
-
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
