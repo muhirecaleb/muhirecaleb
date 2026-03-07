@@ -27,3 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhirecaleb&show_icons=true&locale=en" alt="muhirecaleb" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhirecaleb&" alt="muhirecaleb" /></p>
+<img width="845" height="440" alt="image" src="https://github.com/user-attachments/assets/d4905fdd-a76d-4767-9531-b1dc2d1d8184" />
